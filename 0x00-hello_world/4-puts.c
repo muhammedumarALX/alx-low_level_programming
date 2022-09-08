@@ -5,16 +5,11 @@
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
-	{
-	
-		char Mystr[] = "Programming is like building a multilingual puzzle\n";
+{
+	char Mystr[] = "Programming is like building a multilingual puzzle\n";
+	puts(Mystr);
 
-		puts(Mystr);
-
-		return 0;
-
-
-	}
+	return 0;
+}
 
