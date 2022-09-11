@@ -10,13 +10,13 @@ int main(void)
 	/*Declaring variables*/
 	char i;
 	
-	for (i = 'a'; i <= 'z'; i++)
+	for (i = 'a' ; i <= 'z' ; i++)
 	{
 		/*printing lowercase*/
 		putchar(i);
 	}
 
-	for (i = 'A'; i <= 'Z'; i++)
+	for (i = 'A' ; i <= 'Z' ; i++)
 	{
 		/*printing uppercase*/
 		putchar(i);
