@@ -15,7 +15,6 @@ int main(void)
 		/*printing lowercase*/
 		putchar(i);
 	}
-
 	for (i = 'A' ; i <= 'Z' ; i++)
 	{
 		/*printing uppercase*/
