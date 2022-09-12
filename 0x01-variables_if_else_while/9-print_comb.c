@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print numbers between 0 to 9 with commas and spaces.
+ * main - Entry point for the numbers
  *
  * Reward: Always 0 (Success)
  */
