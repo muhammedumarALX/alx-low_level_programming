@@ -14,10 +14,14 @@ int main(void)
 	/*inserting numeric values*/
 	for (j = 48; j < 58; j++)
 		putchar(j);
+
 	/*inserting alphabetic values*/
 	for (i = 'a'; i <= 'f'; i++)
 		putchar(i);
-	/*printing output*/
+	
 	putchar('\n');
+
+
 	return (0);
+
 }
