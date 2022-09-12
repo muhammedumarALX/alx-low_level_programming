@@ -17,7 +17,7 @@ int main(void)
 	/*inserting alphabetic values*/
 	for (i = 'a'; i <= 'f'; i++)
 		putchar(i);
-
+	/*printing output*/
 	putchar('\n');
 	return (0);
 }
