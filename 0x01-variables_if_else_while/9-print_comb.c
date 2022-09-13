@@ -3,7 +3,7 @@
 /**
  * main - Entry point for the numbers
  *
- * Reward: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void) 
 {
@@ -14,8 +14,8 @@ for (i = 48; i < 58; i++)
 	putchar(i);
 	if (i != 57)
 	{
-		putchar(',');
-		putchar(' ');
+	putchar(',');
+	putchar(' ');
 	}
 }
 putchar('\n');
