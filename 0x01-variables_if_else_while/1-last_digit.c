@@ -20,7 +20,7 @@ int main(void)
 	/*condition to print last digit*/
 	if (l > 5)
 	{
-	printf("Last digit %d is %d and is greater than 5\n", n, l);
+	printf("Last digit of %d is %d and is greater than 5\n", n, l);
 	}
 	/*condition if i is equal to zero*/
 	else if (l == 0)
