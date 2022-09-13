@@ -30,7 +30,7 @@ int main(void)
 	/*the last digit is less than 6 and not 0*/
 	else
 	{
-	printf("Last digit of %d is %d and is less than 6 and 0\n", n, l);
+	printf("Last digit of %d is %d and is less than 6 and not 0\n", n, l);
 	}
 	/*ending the program and return the output*/
 	return (0);
