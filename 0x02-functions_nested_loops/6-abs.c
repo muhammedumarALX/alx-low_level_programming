@@ -3,7 +3,7 @@
 /**
  * _abs - prints absolute value of an int
  * @c: is the int that uses the argument function
- * Return: Always 0 
+ * Return: Always 0
  */
 int _abs(int c)
 {
