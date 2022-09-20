@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * swap - function that swaps value of variables
+ * swap_int - function that swaps value of variables
  * @a: first variable
  * @b: second variable
  * Return: nothing
