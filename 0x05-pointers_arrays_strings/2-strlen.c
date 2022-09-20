@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _strlen - funtion to print out length of string array
+ * _strlen - funtion to print out length of string array
  * @s: input string.
  * Return: length of string
  */
