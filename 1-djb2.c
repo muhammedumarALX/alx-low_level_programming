@@ -1,3 +1,5 @@
+#include "hash_tables.h"
+
 /**
  * hash_djb2 - computes the hash of an
  * array of the bytes using the db2 algorithm.
